@@ -1,0 +1,9 @@
+/* Preview-only palette. The main demo keeps its current colors. */
+:root{--bg:#0B0D10;--panel:#14181D;--panel-2:#1A2027;--ink:#E8E5DF;--accent:#C38B68;--line:#2A3038;--muted:#ABB2BA;--soft:#202731}
+.site-header{background:#0B0D10f0}.demo-note{background:#12171C}
+.hero-raven{mix-blend-mode:luminosity}.cyber-home h1{text-shadow:0 3px 22px #0B0D10c4}
+.hero-console{background:#0D1115ed}.focus-selector>button{background:#14181D99}.focus-selector>button[aria-pressed=true]{background:#C38B6815}
+.map-node{background:#11171Df5}.map-node:hover,.map-node[aria-pressed=true]{background:#1A242E}.skill-tabs{background:#10151A}.skill-detail{background:linear-gradient(140deg,#1A202788,transparent)}
+.journey-detail{background:linear-gradient(120deg,#1A2027,var(--bg))}.night-ambient{background:radial-gradient(ellipse 40% 50% at var(--px,70%) var(--py,30%),#C38B6809,transparent 75%)}
+.mobile-nav-open .site-header nav{background:#141A21}
+.primary-button,.visual-open,.journey-switcher>button[aria-selected=true]{color:#0B0D10}
